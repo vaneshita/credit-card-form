@@ -6,13 +6,16 @@ ___
 ## Funciones globales
 
 *Es una función global con respecto al contexto de ejecución "document" y con respecto al contexto de ejecución "window" es una función local.*
+
 * (**línea1**)
 funcion anónima
-  ```javascript
+ ```javascript
 $(document).ready(function() {});
 };
-  ```
+ ```
+ 
 ___
+
 
 ## Variables globales
 
@@ -38,7 +41,7 @@ ___
 * (**línea36**) function soloNumeros(input) {}
 * (**línea44**) function isValidCreditCar(numberCard){}
 
-  ___
+___
 
 ## Variables locales
 
